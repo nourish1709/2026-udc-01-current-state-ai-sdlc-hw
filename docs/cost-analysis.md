@@ -14,3 +14,7 @@ Conclusions:
 - caveman is a handy skill to reduce LLM's output tokens without sacrafising clarity
 - to get a desired result from LLM, you should provide it a valid context (role, examples, requirements, guardrails etc.)
 - LLM's output worsens once its context gets filled up
+
+Optimization conclusions:
+- using .cursorignore did paid off
+- the session context is ~7 times bigger than the code. I might have narrowed down the scope by referencing specific files, using more strict caveman mode, specifying more rules, removing unused skills etc.
