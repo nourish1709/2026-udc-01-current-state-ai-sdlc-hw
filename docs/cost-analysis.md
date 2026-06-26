@@ -8,7 +8,7 @@ Based on the cursor usage page:
 - total: 427714 tokens
 Model: Composer 2.5 Fast
 
-Price: (368_736 + 52_955) / 1_000_000 * 3 + 6023 / 1_000_000 * 15 = 0.25$
+Price: (368_736 + 52_955) / 1_000_000 * 3 + 6023 / 1_000_000 * 15 = 1.36$
 
 Conclusions:
 - caveman is a handy skill to reduce LLM's output tokens without sacrafising clarity
